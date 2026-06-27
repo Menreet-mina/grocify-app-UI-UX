@@ -1,110 +1,52 @@
-# Grocify - Food Delivery App (Figma)
+# Grocify
 
 ## Overview
 
-Grocify is a modern food delivery mobile application designed in Figma. The project focuses on creating a seamless and user-friendly experience for ordering food, from browsing restaurants to tracking deliveries. The interface is designed with usability, accessibility, and consistency in mind while following modern UI/UX design principles.
+Grocify is a food delivery mobile application designed in Figma. The project focuses on creating a clean, intuitive, and user-friendly interface that simplifies the food ordering experience from browsing restaurants to placing an order.
 
-## Objectives
-
-- Design an intuitive and engaging food delivery experience.
-- Create a clean and consistent user interface.
-- Improve user experience through a simple navigation flow.
-- Develop reusable UI components and design patterns.
-- Build an interactive prototype for testing user interactions.
-
-## Tools
+## Built With
 
 - Figma
 - Figma Prototyping
 - Auto Layout
 - Components and Variants
 
-## Features
+## Screens
 
 - Splash Screen
 - Onboarding
-- User Login
-- User Registration
-- Home Screen
-- Restaurant Listings
-- Food Categories
-- Search
+- Login
+- Sign Up
+- Home
+- Restaurant Listing
 - Restaurant Details
 - Food Details
-- Shopping Cart
+- Cart
 - Checkout
-- Order Tracking
-- Favorites
-- User Profile
-- Order History
-- Settings
-
-## Design System
-
-The project includes a consistent design system consisting of:
-
-- Color palette
-- Typography styles
-- Buttons
-- Input fields
-- Cards
-- Icons
-- Navigation components
-- Reusable UI components
-
-## User Flow
-
-1. Launch the application.
-2. Complete the onboarding process.
-3. Sign in or create an account.
-4. Browse restaurants or search for food.
-5. View restaurant and food details.
-6. Add items to the cart.
-7. Complete the checkout process.
-8. Track the order until delivery.
+- Profile
 
 ## Project Structure
 
 ```
-Grocify
+Grocify/
 ├── Splash Screen
 ├── Onboarding
 ├── Authentication
 ├── Home
-├── Categories
-├── Restaurant Details
+├── Restaurants
 ├── Food Details
 ├── Cart
 ├── Checkout
-├── Order Tracking
-├── Favorites
 ├── Profile
-├── Settings
 └── Components
 ```
 
 ## Getting Started
 
-1. Download or clone this repository.
-2. Open the Figma design file.
-3. Explore the different pages and components.
-4. Run the prototype using Figma's Present mode.
-5. Inspect styles and components for development handoff.
-
-## Future Improvements
-
-- Dark mode support
-- Multiple language support
-- Additional payment methods
-- Loyalty and rewards program
-- Personalized recommendations
-- Voice search
-- Enhanced accessibility features
+1. Clone or download this repository.
+2. Open the project in Figma.
+3. Browse the design pages or launch the prototype using Present mode.
 
 ## Author
 
-Created as a UI/UX design project using Figma.
-
-## License
-
-This project is intended for educational and portfolio purposes. You are free to use or modify the design for learning and personal projects.
+Designed using Figma as a UI/UX design project.
